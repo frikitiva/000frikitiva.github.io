@@ -1,3 +1,6 @@
+/* @override 
+	http://lafrikitiva.com/css/cayman.css */
+
 .highlight table td { padding: 5px; }
 
 .highlight table pre { margin: 0; }
@@ -126,7 +129,11 @@
 
 * { box-sizing: border-box; }
 
-body { padding: 0; margin: 0; font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.5; color: #606c71; }
+style>
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
+</style> 
+
+body { padding: 0; margin: 0; font-family: "Roboto Mono", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.5; color: #606c71; }
 
 a { color: #1e6bb8; text-decoration: none; }
 a:hover { text-decoration: underline; }
