@@ -1,7 +1,7 @@
 # Setup
 title:        La Frikitiva
 tagline:      A responsive theme for your project on GitHub Pages
-baseurl:      "http://lafrikitiva.com"
+baseurl:      ""
 paginate:     1
 locale:       "en"
 
